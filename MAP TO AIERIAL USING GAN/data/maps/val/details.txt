@@ -1,0 +1,1 @@
+Drop your validating images in this folder.Make sure you concatinated two images as shown.
